@@ -172,7 +172,7 @@ a:visited{
     border: 1px solid #000;
     margin-top: 30px;
     position: relative;
-    background-image: url('../css/mtn.png');
+    background-image: url('mtn.png');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover; 
